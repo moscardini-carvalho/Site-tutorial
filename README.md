@@ -24,4 +24,4 @@ Este projeto foi feito com:
 
   ## 🖥 Visual do site
 
- 1° Imagem ![Head do site](https://github.com/moscardini-carvalho/Site-tutorial/blob/main/Captura%20de%20tela%202024-05-02%20161035.png))
+ 1° Imagem ![Head do site](https://github.com/moscardini-carvalho/Site-tutorial/blob/main/Captura%20de%20tela%202024-05-02%20161035.png)
